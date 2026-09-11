@@ -1,0 +1,38 @@
+body{
+    background-image: url(bckg\ \(Custom\).jpg) ;
+    color: aliceblue;
+}
+ul{
+    text-align: center;
+    list-style-type: square;
+}
+a{
+    color: limegreen;
+    font-size: 50px;
+}
+img{
+    max-width: 100%;
+}
+#mainIMG{
+    padding: 20px;
+    border-style: dashed;
+    border-color: blue;
+}
+.inlineIMG{
+    width: 150px;
+    height: 140px;
+}
+#home{
+    text-align: center;
+    font-size: medium;
+    color:burlywood;
+}
+@media screen and (max-width: 600px){
+    #mainIMG{
+        width: 350px;
+        height: 290px;
+        padding: 5px;
+        border-style: dashed;
+        border-color: blue;
+    }
+}

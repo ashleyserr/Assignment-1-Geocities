@@ -1,0 +1,25 @@
+#grav{
+    text-align: left;
+    background-color: sandybrown;
+}
+#atcy{
+    background-color: pink;
+    text-align: center;
+}
+#nnvae{
+    background-color: darkorchid;
+    text-align: right;
+}
+body{
+    background-image: url(shows\ \(Custom\).jpg);
+    text-align: center;
+}
+a{
+    color: yellow;
+    font-size: 30px;
+}
+@media screen and (max-width: 600px){
+    img{
+        max-width: 100%;
+    }
+}

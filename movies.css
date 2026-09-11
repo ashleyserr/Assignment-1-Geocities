@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: darkolivegreen;
+}
+#chunk{
+    border: 10px;
+    border-style: groove;
+    border-color: silver;
+}
+
+@media screen and (max-width: 600px){
+    img{
+        max-width: 100%;
+    }
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+.tClass:hover{
+    color: green;
+}
+.tClass{
+    background-color: yellow;
+}
+#wth{
+    background-color: crimson;
+}
+#ytho{
+    background-color: lime;
+}
+#mono{
+    background-color: darkslateblue;
+}
+img{
+    max-width: 100%;
+}
+a:hover{
+color: cornflowerblue;
+}
